@@ -29,8 +29,8 @@ To write a java program to create a class Student with attributes name, rollNumb
 ## PROGRAM:
  ```
 Program to implement a Class and Objects using Java
-Developed by: Preethi S
-RegisterNumber:  212223230157
+Developed by: T.Roshini
+RegisterNumber:  212223230175
 ```
 
 ## SOURCE CODE:
