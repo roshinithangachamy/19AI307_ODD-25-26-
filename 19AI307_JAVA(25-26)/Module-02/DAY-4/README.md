@@ -1,6 +1,6 @@
 # Ex. No:2(D) VARIABLE SCOPE AND CONSTRUCTOR
 
-## QUESTION:
+## QUESTION: 
 
 <img width="795" height="191" alt="image" src="https://github.com/user-attachments/assets/6b7ab3ac-8e0a-4eae-bbd1-7cc4ac74282e" />
 
